@@ -1,0 +1,12 @@
+Access phpMyAdmin through XAMPP.
+
+Set phpMyAdmin username: root, Password: admin. To set it --> privileges --> root - localhost(edit privilege). -->  site may be crash - To repair it --> go xampp click on apache-config - config.inc.php file --> and set password admin
+ 
+
+In phpMyAdmin create JavaCRUD --> JavaCRUD in (ID(Set AI-->Auto Increment on),Name,Email,Username,Password).
+
+-----------
+Download JDK and set proper path of it.
+
+
+In apache netbeans open project and set Libraries --> mysql connector jar(Preferred: 9.1.0), JDK23.
