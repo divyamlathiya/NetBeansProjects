@@ -1,3 +1,4 @@
 # NetBeansProjects
 
-Author - **Divyam Lathiya**
+---
+**Divyam Lathiya**
